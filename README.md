@@ -1,6 +1,12 @@
 # timelabsMac
 
 ## Usage
+./timelabsMac (path) (Inteval in seconds default 1min)
+or
+./timelabsMac (path)
+
+### Example
 ```bash
-./timelabsMac (path) (Inteval in seconds)
+./timelabsMac /home/user/folder 60
+./timelabsMac /home/user/folder
 ```
